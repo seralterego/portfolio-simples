@@ -17,3 +17,5 @@ Projeto criado durante a formação "Iniciante em Programação T6 - ONE" da Alu
 ### Linkedin: https://www.linkedin.com/in/sergiomirandaleitao/
 
 ```
+Confira o resultado aqui: https://portfolio-simples-beta.vercel.app/
+```
